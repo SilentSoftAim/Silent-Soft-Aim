@@ -15,11 +15,15 @@ A demo video (outdated) can be found [here](https://www.youtube.com/watch?v=XDAc
 
 1. Install a version of [Python](https://www.python.org/downloads/) 3.8 or later.
 
-2. Navigate to the root directory. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary dependencies.
+2. Navigate to the root directory (type cmd). Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary dependencies.
+
+send:
+pip install -r requirements.txt and click enter to let it download:
 
 ```
-pip install -r requirements.txt
-```
+when done type python lunar.py 
+and launch.
+
 
 ## Usage
 ```           
